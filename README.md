@@ -1,4 +1,4 @@
-# Motor Control with Ultrasonic Sensor and LCD Monitoring
+# Motor Control with Ultrasonic Sensor and LCD Monitoring (STM32F103c8T6)
 
 ## Objective
 
