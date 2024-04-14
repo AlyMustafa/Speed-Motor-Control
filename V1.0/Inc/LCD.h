@@ -1,8 +1,7 @@
 /*
  * LCD.h
- *
- *  Created on: Jan 27, 2024
- *      Author: Metro
+ * Created on: Jan 27, 2024
+ * Author: Ali Mustafa
  */
 
 #ifndef INC_LCD_H_
